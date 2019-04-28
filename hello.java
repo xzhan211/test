@@ -1,5 +1,6 @@
 public class hello{
     public static void main(String[] args){
-        System.out.println("Hello !!!@@@$$1");
+        System.out.println("Hello !!!@@@$$9");
+        System.out.println("Cool!");
     }
 }
